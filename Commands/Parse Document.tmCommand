@@ -18,7 +18,7 @@ end
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>name</key>
-	<string>Parse Document / Selection as JSON</string>
+	<string>Parse Document / Selection as JSON-string</string>
 	<key>outputCaret</key>
 	<string>heuristic</string>
 	<key>outputFormat</key>
